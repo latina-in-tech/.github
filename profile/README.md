@@ -1,5 +1,5 @@
-# LUG - Latina User Group
+# LiT - Latina In Tech
 
-LUG (Latina User Group) è uno user group pontino che raccoglie gli sviluppatori della provincia.
+LiT (Latina In Tech) è una community pontina che raccoglie gli informatici della provincia.
 
 Lo scopo è quello di fare networking fra di noi e creare un polo di tecnologia nel nostro territorio.
