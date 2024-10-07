@@ -5,4 +5,4 @@ LiT (Latina In Tech) è una community pontina che raccoglie gli informatici dell
 Lo scopo è quello di fare networking fra di noi e creare un polo di tecnologia nel nostro territorio.
 
 
-Seguici sul nostro [Portale Web](https://latina-in-tech.github.io/)
+Seguici sul nostro [Sito ufficiale](https://www.latinaintech.org/it) 
